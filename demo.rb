@@ -4,4 +4,5 @@ while countdown > 0 do
   countdown -= 1 
   if countdown == 0 
     puts "Happy New Year!"
+  end
 end
