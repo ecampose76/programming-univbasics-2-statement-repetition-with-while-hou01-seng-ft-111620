@@ -2,6 +2,6 @@ countdown = 10
 while countdown > 0 do 
   puts "#{countdown}"
   countdown -= 1 
-  elsif 
-  puts "Happy New Year!"
+  if countdown == 0 
+    puts "Happy New Year!"
 end
